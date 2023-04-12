@@ -1,4 +1,4 @@
-package util
+package utils
 
 type SkipListIterator struct {
 	list *Skiplist
